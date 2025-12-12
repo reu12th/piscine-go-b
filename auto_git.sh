@@ -1,4 +1,4 @@
-#!/bin/bash
+b#!/bin/bash
 
 # Script to auto add, commit, and push each changed file separately
 # Default commit message = filename without extension
